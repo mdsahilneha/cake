@@ -1,0 +1,26 @@
+body{
+    background-image: url(cakecup4.webp);
+    background-repeat: no-repeat;
+    background-size: 350px 500px;
+    }
+    form{
+        border: solid;
+        width: 350;
+        margin-left: 480px;
+        margin-top: 29px;
+        background-color: none;
+    }
+    h1{
+        color: bisque;
+        text-align: center;
+    }
+    label{
+        color: white;
+        font-size: 20px;
+        font-weight: bold;
+    }
+    input{
+        height: 20px;
+        width: 220px;
+        border: ;
+    }
